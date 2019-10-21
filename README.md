@@ -9,8 +9,9 @@ To run this application locally on your machine, please follow these steps:
 
 ```
 1. $ git clone <repo_url>
-2. $ npm start
-3. Access 'localhost:3000' to view the webapp, running locally.
+2. $ cd responsive_layout_vimeo
+3. $ npm start
+4. Access 'localhost:3000' to view the webapp, running locally.
 ```
 
 ## View the webapp hosted as a GitHub-Pages website
