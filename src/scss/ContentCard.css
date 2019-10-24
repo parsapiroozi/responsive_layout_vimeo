@@ -1,0 +1,175 @@
+
+.content-card-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-right: 13vw;
+    padding-left: 13vw;
+
+}
+
+
+
+#content-card0 {
+    color: rgb(107, 106, 106);
+    padding-top: 17vh;
+    padding-bottom: 17vh;
+
+}
+
+#content-card1 {
+    background: rgb(56, 56, 56);
+    color: whitesmoke;
+    padding-top: 17vh;
+    padding-bottom: 4vh;
+
+}
+
+#content-card2 {
+    background: linear-gradient(rgb(63, 62, 62), white);
+    color: whitesmoke;
+    padding-top: 2vh;
+    padding-bottom: 23vh;
+
+}
+
+
+
+.content-card-media-container {
+    text-align: center;
+
+}
+
+#content-card-media0 {
+    text-align: center;
+    margin-right: 3vw;
+
+}
+
+#content-card-media1 {
+    text-align: center;
+    margin-left: 3vw;
+
+}
+
+#content-card-media2 {
+    text-align: center;
+    margin-right: 3vw;
+
+}
+
+
+
+#content-card-picture0 {
+    height: auto;
+    width: 630px;
+
+}
+
+#content-card-picture1 {
+    height: auto;
+    width: 600px;
+
+}
+
+#content-card-picture2 {
+    height: auto;
+    width: 600px;
+
+}
+
+
+
+.content-card-text-header {
+    font-size: 1.75em;
+    font-weight: 800;
+
+}
+
+#content-card-text-header0 {
+    color: black;
+    margin-bottom: 0.5vh;
+
+}
+
+.content-card-text-text {
+    font-weight: 600;
+    font-size: 17px;
+    margin: 0;
+
+}
+
+
+
+#caros-picture {
+    max-height: 70vh;
+    filter: blur(17px);
+
+}
+
+.caros-caption-picture-container {
+    margin-bottom: 4vh;
+
+}
+
+
+
+@media (max-width : 1300px) {
+    
+    .content-card-container {
+        display: flex;
+        flex-direction: column;
+    
+    }
+
+
+    #content-card-text0 {
+        padding-bottom: 5.25vh;
+        order: 1;
+        
+    }
+
+    #content-card-media0 {
+        order: 2;
+
+    }
+
+    #content-card-text1 {
+        padding-bottom: 5.25vh;
+        order: 1;
+        
+    }
+
+    #content-card-media1 {
+        order: 2;
+
+    }
+
+    #content-card-text2 {
+        padding-bottom: 5.25vh;
+        order: 1;
+        
+    }
+
+    #content-card-media2 {
+        order: 2;
+
+    }
+
+
+    #content-card-media0 {
+        margin: 0;
+    
+    }
+
+    #content-card-media1 {
+        margin: 0;
+    
+    }
+
+    #content-card-media2 {
+        margin: 0;
+    
+    }
+
+}
