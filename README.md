@@ -27,4 +27,6 @@ pictures/thumbnails used in the carousel at the bottom of the webapp's page.
 
 Thank you for your consideration!
 
-Parsa P. Esfahani - October 21, 2019
+Parsa P. Esfahani
+
+October 21, 2019
